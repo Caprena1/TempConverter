@@ -1,0 +1,14 @@
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.exe
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.deps.json
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.runtimeconfig.json
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.runtimeconfig.dev.json
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.dll
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.pdb
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.csproj.AssemblyReference.cache
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.AssemblyInfoInputs.cache
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.AssemblyInfo.cs
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.dll
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.pdb
+C:\Users\Caprena\Desktop\REPOS\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.genruntimeconfig.cache
